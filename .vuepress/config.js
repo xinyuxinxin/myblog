@@ -5,6 +5,7 @@ module.exports = {
   "description": "学习博客",
   // 部署时输出文件夹
   "dest": "public",
+  "base": '/blog/',
   "head": [
     [
       "link",
