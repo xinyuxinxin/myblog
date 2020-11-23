@@ -20,18 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd142a47-ea98-4462-9477-26e96c51e4d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogs/学习博客/2020/092101.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/styles/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2018/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2019/092101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2016/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2017/092101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/other/guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/学习博客/2020/092101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/资源分享/2020/测试.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Stylus File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k5ZnLOMrFZGQPSb8m6h4LG5mUI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,12 +59,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/学习博客/2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.vuepress/public" />
+    <property name="list.type.of.created.stylesheet" value="Stylus" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mysmallweb\myblog\.vuepress\public" />
+      <recent name="D:\mysmallweb\myblog\blogs\资源分享\2020" />
       <recent name="D:\mysmallweb\simpleBlog\myblog\blogs\学习博客\2020" />
     </key>
   </component>
@@ -60,6 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604992578730</updated>
       <workItem from="1604992579846" duration="6391000" />
+      <workItem from="1606094772380" duration="37000" />
+      <workItem from="1606094829652" duration="9203000" />
     </task>
     <servers />
   </component>
@@ -76,5 +98,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="949" height="264" key="GridCell.Tab.0.bottom" timestamp="1606095006369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.7.1920.1080@0.0.1920.1080" timestamp="1606095006369" />
+    <state width="949" height="264" key="GridCell.Tab.0.center" timestamp="1606095006369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.7.1920.1080@0.0.1920.1080" timestamp="1606095006369" />
+    <state width="949" height="264" key="GridCell.Tab.0.left" timestamp="1606095006369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.7.1920.1080@0.0.1920.1080" timestamp="1606095006369" />
+    <state width="949" height="264" key="GridCell.Tab.0.right" timestamp="1606095006369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.7.1920.1080@0.0.1920.1080" timestamp="1606095006369" />
   </component>
 </project>

@@ -53,7 +53,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/xinyuxinxin/myblog",
             "icon": "reco-github"
           }
         ]
@@ -96,9 +96,9 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
+    "author": "心雨新心",
     "startYear": "2020"
   },
   "markdown": {
